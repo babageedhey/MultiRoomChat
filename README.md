@@ -1,2 +1,4 @@
 # MultiRoomChat
-Chat Application having multiple room
+Basic MultiRoom Chat App in NodeJS
+
+View Link here https://linux-chat-app.herokuapp.com/
